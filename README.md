@@ -23,7 +23,7 @@ It's fiddly to set up Javascript unit tests and acceptance tests in the same pro
 
 ### Setup
 ```
-npm init
+npm install
 ```
 
 ### Tests
